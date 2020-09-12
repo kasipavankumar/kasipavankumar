@@ -6,7 +6,7 @@ Most of my applications are built around the MERN stack with interests also flow
 
 [Clean Code](https://www.amazon.in/dp/0132350882) has taught me to develop applications with an easy to understand & most importantly, maintainable codebase.
 
-I post useful articles on my [blog](https://dkpk.tech) & often write answers on [Quora](https://www.quora.com/profile/D-Kasi-Pavan-Kumar).
+I post useful articles on my [blog](https://dkpk.tech/blog) & often write answers on [Quora](https://www.quora.com/profile/D-Kasi-Pavan-Kumar).
 
 Space tends to fascinate most people & I'm one of them. Star gazing is one of my hobbies & [Betelguese](https://en.wikipedia.org/wiki/Betelgeuse) is my favorite star in the night sky.
 
