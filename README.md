@@ -4,7 +4,7 @@ I'm a full stack developer in the making & my focus is towards designing rich & 
 
 Most of my applications are built around the MERN stack with interests also flowing towards GatsbyJS, NextJS, GraphQL & Svelte.
 
-[Clean Code](https://www.amazon.in/dp/0132350882) has taught me to develop applications with an easy to understand & most importantly, maintainable codebase.
+[Clean Code](https://www.amazon.in/dp/0132350882) has taught me to develop applications with an easy to understand & most importantly, a maintainable codebase.
 
 I post useful articles on my [blog](https://dkpk.tech/blog) & often write answers on [Quora](https://www.quora.com/profile/D-Kasi-Pavan-Kumar).
 
