@@ -11,9 +11,3 @@ Coming to the online presence, you can find writeups at my [blog](https://kasipa
 [![Straightforward Next.js — one course to teach you everything about Next.js.](https://storage.googleapis.com/devdkpk.appspot.com/assets/sf-nextjs/sf-nextjs-rise.gif)](https://www.udemy.com/course/straightforward-nextjs/)
 
 I'm one of those people who is fascinated by the space. One day, I came across the possibility of [Earth going rogue](https://youtu.be/gLZJlf5rHVs) due to a star passing close to the Solar System — scary & interesting at the same time. So, [I wrote an article](https://links.kasipavankumar.in/rogue-earth-hypothesis) describing my thoughts on how that would progress. If you would ask me the favourite star, that would be [Betelguese](https://en.wikipedia.org/wiki/Betelgeuse).
-
-<div align="center">
-
-![My online avatar](https://avatars.githubusercontent.com/u/44864604?v=4&s=62)
-
-</div>
