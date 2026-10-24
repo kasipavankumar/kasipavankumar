@@ -1,11 +1,13 @@
-Greetings. 👋
+こんにちは 👋 I'm Kasi: software engineer based in India, amateur stargazer,
+and slow learner of Japanese.
 
-My name is D. Kasi Pavan Kumar, a full stack developer from India. My prime focus is towards designing fluid user experiences backed by performant & scalable web applications.
+I like knowing how things work all the way down, which is how I ended up
+running a tiny data center at home. It started as one server and now hosts my own git, a handful of open-source
+LLMs, and the AI agents that run on them and write code with me. Most of what
+I know about servers, I learned by breaking this one.
 
-My competence is with the MERN stack along with React based frameworks like [GatsbyJS](https://www.gatsbyjs.com) & [NextJS](https://nextjs.org). I'm currently diving deep into Docker 🐳.
+I write about code on my [blog](https://kasi.sh/blog) and about the universe on
+[Cosmicode](https://kasi.sh/cosmicode). My favorite star is Betelgeuse, a red
+supergiant one bad deploy away from going supernova.
 
-After taking a few [lessons from Uncle Bob](https://youtu.be/7EmboKQH8lM), I have felt the essence of [Clean Code](https://links.kasipavankumar.in/clean-code) in writing easy to understand and most importantly, a maintainable codebase.
-
-Coming to the online presence, you can find writeups at my [blog](https://kasipavankumar.in/blog/) & often on [Quora](https://links.kasipavankumar.in/quora), [Stackoverflow](https://links.kasipavankumar.in/stackoverflow) & [Medium](https://links.kasipavankumar.in/medium). I started creating educational courses on [Udemy](https://links.kasipavankumar.in/udemy), very first attempt being the [Straightforward Next.js](https://www.udemy.com/course/straightforward-nextjs/) — one course to teach you everything about Next.js.
-
-I'm one of those people who is fascinated by the space. One day, I came across the possibility of [Earth going rogue](https://youtu.be/gLZJlf5rHVs) due to a star passing close to the Solar System — scary & interesting at the same time. So, [I wrote an article](https://links.kasipavankumar.in/rogue-earth-hypothesis) describing my thoughts on how that would progress. If you would ask me the favourite star, that would be [Betelguese](https://en.wikipedia.org/wiki/Betelgeuse).
+[Website](https://kasi.sh) · [Say hello](mailto:root@kasi.sh)
